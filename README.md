@@ -1,7 +1,7 @@
 # aws-autoscaling-webapp
 
 ## 🔗 Live URL
-http://MyLoadBalancer-123456789.ap-south-1.elb.amazonaws.com
+http://MyLoadBalancer-1327879497.ap-south-1.elb.amazonaws.com
 
 ## 📌 Project Overview
 Deployed a highly available web application on AWS using
