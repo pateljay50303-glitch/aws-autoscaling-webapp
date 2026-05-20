@@ -2,6 +2,7 @@
 
 ## 🔗 Live URL
 http://MyLoadBalancer-1327879497.ap-south-1.elb.amazonaws.com
+http://13.204.75.70
 
 ## 📌 Project Overview
 Deployed a highly available web application on AWS using
