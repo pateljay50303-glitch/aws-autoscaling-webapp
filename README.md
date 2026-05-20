@@ -2,6 +2,8 @@
 
 ## 🔗 Live URL
 http://MyLoadBalancer-1327879497.ap-south-1.elb.amazonaws.com
+
+## EC2 Direct IP Se
 http://13.204.75.70
 
 ## 📌 Project Overview
